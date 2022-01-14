@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: Taylor Dragoo
-tagline: Web Developer
+tagline: Software Engineer
 featuredImage: /assets/annie-spratt-hx_hf2lppuu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Web developer, based out of Norman, Oklahoma. Working as a fullstack developer with [@laravelphp](https://twitter.com/laravelphp) and[ @VueJs](https://twitter.com/VueJs) working for[](https://twitter.com/UofOklahoma) University of Oklahoma
+Based out of Norman, Oklahoma working as a fullstack developer with [@laravelphp](https://twitter.com/laravelphp) and[ @VueJs](https://twitter.com/VueJs) for the[](https://twitter.com/UofOklahoma) University of Oklahoma
