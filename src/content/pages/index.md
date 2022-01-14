@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Taylor Dragoo
 tagline: Web Developer
-featuredImage: /assets/qbr0veos_400x400.jpeg
+featuredImage: /assets/profpic.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
