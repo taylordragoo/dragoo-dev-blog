@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Taylor Dragoo
+title: About
 ---
 ## Summary
 
