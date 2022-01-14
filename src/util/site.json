@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Taylor Dragoo",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "",
+    "siteUrl": "https://taylordragoo.dev",
+    "image": "/assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg",
+    "iconimage": "/assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg",
+    "twitterUsername": "@taylordragoo"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
