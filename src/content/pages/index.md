@@ -3,9 +3,9 @@ template: index-page
 slug: /
 title: Taylor Dragoo
 tagline: Web Developer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/qbr0veos_400x400.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is an award-nominated developer, based in the sunny side of Norman, Oklahoma. Working as lead developer of the College of Medicine at the University of Oklahoma.
+Web developer, based out of Norman, Oklahoma. Working as a fullstack developer with [@laravelphp](https://twitter.com/laravelphp) and[ @VueJs](https://twitter.com/VueJs) working for[](https://twitter.com/UofOklahoma) University of Oklahoma
