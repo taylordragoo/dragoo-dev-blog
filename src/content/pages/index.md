@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Taylor Dragoo
 tagline: Software Developer
-featuredImage: /assets/img_3995.jpg
+featuredImage: /assets/img_3995-2.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
