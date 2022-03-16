@@ -3,17 +3,6 @@ template: about-page
 slug: /about
 title: About
 ---
-## Summary
-
-* 5+ years of exposure to JavaScript technologies such as VueJs, MongoDB, and Node JS
-* 2+  years of exposure to .NET-based technologies
-* 3+ years of exposure to PHP in LAMP or WAMP environments
-* 5+ years of experience with REST APIs and object-oriented programming design patterns
-* 5+ years experience as an IT Support Analyst
-* 3+ years as an Audio Engineer & Consultant
-* Bachelor of Applied Technology
-* Bachelor of Science in Computer Science (Est. Spring 2022)
-
 ## Experience
 
 #### Fullstack Developer / University of Oklahoma
@@ -27,7 +16,7 @@ title: About
 * Coordinated with the team to conduct user research with strong communication, analytical and interpersonal skills
 * Environment: Laravel, Vue, SQL Server, Axios, Docker
 
-#### IT Support Analyst / University of Oklahoma Health Sciences Center
+#### IT Analyst / University of Oklahoma Health Sciences Center
 
 #### Oct 2016 - July 2021
 
@@ -39,8 +28,4 @@ title: About
 
 #### Fort Hays State University / Bachelor of Science in Computer Science
 
-Second degree/Expected graduation spring 2022
-
 #### University of Central Oklahoma / Bachelor of Applied Technology in Sound Design
-
-Awarded Dec. 2013
