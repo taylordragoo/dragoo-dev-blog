@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Football Manager-clone with Vue, IndexedDB, Electron: Project Setup"
+title: "Football Manager with Vue, IndexedDB, Electron: Project Setup"
 slug: /sports-simulator-intro
 date: 2022-12-14 08:56
 description: Vue, Dexie, Electron, Persistence, Offline
