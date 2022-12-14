@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: "Part 1: Football Manager clone with Vue, IndexedDB, Electron"
-slug: /sports-simulator-intro
+title: "Sports Simulation with Vue, IndexedDB & Electron: Part 1"
+slug: /sports-simulation-intro
 date: 2022-12-14 08:56
 description: Vue, Dexie, Electron, Persistence, Offline
 ---
