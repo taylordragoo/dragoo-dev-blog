@@ -68,4 +68,27 @@ Next, we are going to install a package called Dexie. Dexie is another library f
 
 It also includes features such as lazy loading, data change events, and transaction support. It has a strong focus on performance and reliability, making it a good choice for applications that need to work with large amounts of data.
 
+To install Dexie, run this command:
+
+```
+npm install dexie
+```
+
+After Dexie has been installed, you can import it into your JavaScript code and start using it to manage your app's data. Here is an example of how to do this:
+
+```
+import Dexie from 'dexie';
+
+const db = new Dexie('myDatabase');
+
+db.version(1).stores({
+  todos: '++id, title, completed'
+});
+
+db.todos.put({
+  title: 'Do something',
+  completed: false
+});
+```
+
 In this lesson, we set up our project and prepared several packages for use in future lessons. Next, we will go over how Vue, Vuex-ORM and Dexie all work together to save data for offline use similar to how you would for a game like Football Manager.
