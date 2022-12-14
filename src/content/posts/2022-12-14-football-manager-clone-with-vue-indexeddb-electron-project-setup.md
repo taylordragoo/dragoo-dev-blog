@@ -43,7 +43,7 @@ To run your Electron app, use the following command:
 npm run electron:serve
 ```
 
-This will start the Electron app in development mode, where the app will automatically reload when you make changes to the code. Next, we want to add Vuex-ORM to our project. Vuex-ORM is an object-relational mapping(ORM) plugin for Vue.js that allows you to use an ORM to manage the state of your Vuex store. It provides a powerful query builder API and many other features that make working with data in your Vue app easier, especially if you are already using Vuex for state management. It provides a powerful and flexible way to work with data, making your Vue.js app more scalable and maintainable.
+This will start the Electron app in development mode, where the app will automatically reload when you make changes to the code. Next, we want to add Vuex-ORM to our project. Vuex-ORM is an object-relational mapping(ORM) plugin for Vue.js that allows you to use an ORM to manage the state of your Vuex store. It provides a powerful query builder API and many other features that make working with data that is nested or relational in nature much easier. Using an ORM can help to decouple different parts of the store and make it easier to work with complex data structures. It's like treating a part of the store as if it were a database and keeping the data in a normalized form.
 
 To install Vuex-ORM, you will need to have npm or yarn installed on your system. Once you have a package manager installed, you can use it to install Vuex-ORM like this:
 
