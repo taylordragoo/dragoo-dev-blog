@@ -7,12 +7,13 @@ title: About
 
 #### July 2021 - Current
 
-* Collaborated with project managers, business analysts and end-users to define and develop new application concepts to be used by the College of Medicine
+* Collaborated with project managers, business analysts, and end-users to define and develop new application concepts to be used by the College of Medicine
 * Established continual improvement to system architecture by refactoring old legacy code that had been written in ColdFusion 11 to Javascript/PHP
-* Led the integration of two legacy faculty SQL databases into a new single unified-schema
-* Developed various web service/APIs to fetch the data and populate the UI
-* Coordinated with the team to conduct user research with strong communication, analytical and interpersonal skills
-* Environment: Javascript, PHP, SQL & Docker
+* PHP (Laravel), JavaScript (Node.js / React.js / Vue.js / TypeScript), Python (Django)
+* SQL (Pretty much all mainstream types, and MongoDB for NoSQL)
+* CI/CD with build pipelines, Docker, and automated testing with Selenium, PHPUnit, and PyTest.
+* Familiarity with Agile practices including Scrum, Kanban, etc.
+* Lead experience with a small team of developers. Solid communication skills and experience working with teams of all disciplines and backgrounds.
 
 ## IT Analyst / University of Oklahoma
 
