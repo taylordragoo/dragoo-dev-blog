@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Based out of Oklahoma City, working as a full-stack developer with [@laravelphp](https://twitter.com/laravelphp) and[ @VueJs](https://twitter.com/VueJs)
+Based out of New York City, working as a software developer with [@laravelphp](https://twitter.com/laravelphp) and[ @VueJs](https://twitter.com/VueJs)
